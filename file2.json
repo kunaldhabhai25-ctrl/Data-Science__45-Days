@@ -2,7 +2,7 @@
     {
         "name": "dheeraj",
         "roll no": 123,
-        "marks":10
+        "marks":Null
     },
     {
         "name": "kunal",
@@ -22,7 +22,7 @@
     {
         "name": "anjali",
         "roll no": 1234567,
-        "marks":50
+        "marks": Null
     }
 ]
 
